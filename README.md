@@ -1,2 +1,2 @@
 # music-diversifier
-# music-diversifier
+A diverse music recommender. 
